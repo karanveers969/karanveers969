@@ -11,7 +11,7 @@
 
 ## 💻 About Me
 
-- 🔐 Passionate about FOSS.
+- 🔐 Idk
 
 ---
 
